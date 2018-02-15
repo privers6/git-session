@@ -1,3 +1,4 @@
 This is text from the remote repository.
 This is text from the local repository.
 This is more text from the remote repository.
+This change will be stashed.
